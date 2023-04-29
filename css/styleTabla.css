@@ -1,0 +1,46 @@
+table th {
+  color: white;
+  border: none;
+}
+#dataTable > thead:nth-child(1){
+  color: white;
+  background-color: #0275d8;
+
+}
+::placeholder {
+  color: black;
+  opacity: 1; 
+}
+.btn-secondary{
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 20px;
+}
+#dataTable_filter > label:nth-child(1){
+  font-weight: bold;
+}
+input.form-control:nth-child(1){
+  background-color: #bee1ff;
+}
+h1{
+  background-color: #fcfcfc;
+}
+th.sorting:nth-child(11){
+  background-color: #198754;
+ 
+}
+select.form-select:nth-child(1){
+  background-color: #bee1ff;
+
+}
+#dataTable_length > label:nth-child(1){
+  font-weight: bold;
+  margin: 10px 10px 10px 20px;
+}
+#dataTable_info{
+  font-weight: bold;
+}
+#editar_icono{
+  color: #0275d8;
+}
+
