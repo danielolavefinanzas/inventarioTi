@@ -64,11 +64,11 @@
         <h4 class="text-center mt-3 h4"><strong>Filtrar</strong> </h4>
         <table class="table  table-responsive" id="search">
 
-            <td id="search4"><strong>Tipo</strong></td>
-            <td id="search5"><strong>Unidad</strong></td>
-            <td id="search6"><strong>Recinto</strong></td>
-            <td id="search7"><strong>Marca</strong></td>
-            <td id="search8"><strong>Modelo</strong></td>
+            <td id="search4"><strong>Proveedor</strong></td>
+            <td id="search5"><strong>Tipo de equipo</strong></td>
+            <td id="search6"><strong>Ubicación</strong></td>
+            <!-- <td id="search7"><strong>Marca</strong></td> -->
+            <td id="search8"><strong>Marca</strong></td>
         </table>
     </div>
     <div class="container col-md-12 mt-5  ">

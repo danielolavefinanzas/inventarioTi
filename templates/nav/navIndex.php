@@ -45,7 +45,7 @@
   <div class="container single-line text-center">
     <div class="row">
       <div class="col">
-        <img id="logoHpm" src="../logoHPM.jpg" alt="Foto Hpm">
+        <!-- <img id="logoHpm" src="/logoHPM.jpg" alt="Foto Hpm"> -->
       </div>
       <div class="col">
         <div class=" d-flex p-2">
